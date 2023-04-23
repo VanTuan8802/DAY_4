@@ -8,6 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		0ECBF52229F5887A00250A82 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECBF52129F5887A00250A82 /* main.swift */; };
+		0ECBF52929F5889F00250A82 /* Bai1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECBF52829F5889F00250A82 /* Bai1.swift */; };
+		0ECBF52B29F588A500250A82 /* Bai2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECBF52A29F588A500250A82 /* Bai2.swift */; };
+		0ECBF52D29F588AA00250A82 /* Bai3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECBF52C29F588AA00250A82 /* Bai3.swift */; };
+		0ECBF53529F5890D00250A82 /* Bai4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECBF53429F5890D00250A82 /* Bai4.swift */; };
+		0ECBF53729F5891200250A82 /* Bai5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECBF53629F5891200250A82 /* Bai5.swift */; };
+		0ECBF53929F5891B00250A82 /* Bai6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECBF53829F5891B00250A82 /* Bai6.swift */; };
+		0ECBF53B29F5892000250A82 /* Bai7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECBF53A29F5892000250A82 /* Bai7.swift */; };
+		0ECBF53D29F5892500250A82 /* Bai8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECBF53C29F5892500250A82 /* Bai8.swift */; };
+		0ECBF53F29F5892A00250A82 /* Bai9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECBF53E29F5892A00250A82 /* Bai9.swift */; };
+		0ECBF54129F5893500250A82 /* Bai10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECBF54029F5893500250A82 /* Bai10.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +35,16 @@
 /* Begin PBXFileReference section */
 		0ECBF51E29F5887A00250A82 /* Day4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Day4; sourceTree = BUILT_PRODUCTS_DIR; };
 		0ECBF52129F5887A00250A82 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		0ECBF52829F5889F00250A82 /* Bai1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai1.swift; sourceTree = "<group>"; };
+		0ECBF52A29F588A500250A82 /* Bai2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai2.swift; sourceTree = "<group>"; };
+		0ECBF52C29F588AA00250A82 /* Bai3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai3.swift; sourceTree = "<group>"; };
+		0ECBF53429F5890D00250A82 /* Bai4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai4.swift; sourceTree = "<group>"; };
+		0ECBF53629F5891200250A82 /* Bai5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai5.swift; sourceTree = "<group>"; };
+		0ECBF53829F5891B00250A82 /* Bai6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai6.swift; sourceTree = "<group>"; };
+		0ECBF53A29F5892000250A82 /* Bai7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai7.swift; sourceTree = "<group>"; };
+		0ECBF53C29F5892500250A82 /* Bai8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai8.swift; sourceTree = "<group>"; };
+		0ECBF53E29F5892A00250A82 /* Bai9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai9.swift; sourceTree = "<group>"; };
+		0ECBF54029F5893500250A82 /* Bai10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai10.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +78,16 @@
 			isa = PBXGroup;
 			children = (
 				0ECBF52129F5887A00250A82 /* main.swift */,
+				0ECBF52829F5889F00250A82 /* Bai1.swift */,
+				0ECBF52A29F588A500250A82 /* Bai2.swift */,
+				0ECBF52C29F588AA00250A82 /* Bai3.swift */,
+				0ECBF53429F5890D00250A82 /* Bai4.swift */,
+				0ECBF53629F5891200250A82 /* Bai5.swift */,
+				0ECBF53829F5891B00250A82 /* Bai6.swift */,
+				0ECBF53A29F5892000250A82 /* Bai7.swift */,
+				0ECBF53C29F5892500250A82 /* Bai8.swift */,
+				0ECBF53E29F5892A00250A82 /* Bai9.swift */,
+				0ECBF54029F5893500250A82 /* Bai10.swift */,
 			);
 			path = Day4;
 			sourceTree = "<group>";
@@ -120,6 +150,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0ECBF53B29F5892000250A82 /* Bai7.swift in Sources */,
+				0ECBF52D29F588AA00250A82 /* Bai3.swift in Sources */,
+				0ECBF52929F5889F00250A82 /* Bai1.swift in Sources */,
+				0ECBF52B29F588A500250A82 /* Bai2.swift in Sources */,
+				0ECBF54129F5893500250A82 /* Bai10.swift in Sources */,
+				0ECBF53D29F5892500250A82 /* Bai8.swift in Sources */,
+				0ECBF53529F5890D00250A82 /* Bai4.swift in Sources */,
+				0ECBF53929F5891B00250A82 /* Bai6.swift in Sources */,
+				0ECBF53729F5891200250A82 /* Bai5.swift in Sources */,
+				0ECBF53F29F5892A00250A82 /* Bai9.swift in Sources */,
 				0ECBF52229F5887A00250A82 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
